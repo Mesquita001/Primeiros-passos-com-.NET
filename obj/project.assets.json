@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\DigitalInovationOne\\DigitalInovationOne.csproj",
+      "projectUniqueName": "C:\\Users\\User\\DigitalInovationOne\\Primeiros-passos-com-.NET\\DigitalInovationOne.csproj",
       "projectName": "DigitalInovationOne",
-      "projectPath": "C:\\Users\\User\\DigitalInovationOne\\DigitalInovationOne.csproj",
+      "projectPath": "C:\\Users\\User\\DigitalInovationOne\\Primeiros-passos-com-.NET\\DigitalInovationOne.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\DigitalInovationOne\\obj\\",
+      "outputPath": "C:\\Users\\User\\DigitalInovationOne\\Primeiros-passos-com-.NET\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
